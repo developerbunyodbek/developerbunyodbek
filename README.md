@@ -16,11 +16,12 @@
  	<a href="https://t.me/Ninja_Programmer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-<div align="center" style="display: flex;">
-  <a href="https://github.com/developerbunyodbek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerbunyodbek&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerbunyodbek&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="q0abd's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=developerbunyodbek&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
   
 ##
   
@@ -32,4 +33,9 @@
   <img align="center" alt="Bunyodbek-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Bunyodbek-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+## 📊 Activity Graph
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="q0abd's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerbunyodbek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
