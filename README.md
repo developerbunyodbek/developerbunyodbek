@@ -6,49 +6,33 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20UI%2FUX%20Designer&center=true&width=440&height=45&vCenter=true&size=22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Full-Stack%20Web%20Developer;Freelancer&center=true&width=440&height=45&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCTGPcrddiCmWzaGSWTtg83g"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="ilosrim Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://bunyodbek.netlify.app/"><img width="32px" alt="Free Stuff" title="Personal website" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+  <div align="center"> 
+  <a href="https://www.youtube.com/channel/UCTGPcrddiCmWzaGSWTtg83g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/Bunyodbek_Ninja_Developer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 	<a href="https://t.me/Ninja_Programmer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
+<div align="center" style="display: flex;">
+  <a href="https://github.com/developerbunyodbek">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerbunyodbek&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerbunyodbek&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bunyodbek-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bunyodbek-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bunyodbek-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Bunyodbek-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bunyodbek-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Bunyodbek-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Portfolio Projects
-- 🌱 I’m currently learning ... Front-End Web Development
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... HTML && CSS && SASS && Bootstrap
-- 💬 Ask me about ... Anything cotribute with HTML && CSS && SASS && Bootstrap && Javascript
-- 📫 How to reach me: ... [Telegram](https://t.me/Ninja_Programmer)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
