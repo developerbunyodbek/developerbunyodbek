@@ -38,6 +38,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="q0abd's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerbunyodbek&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- 
+
+## Watch my contribution graph eaten by the snake🐍 
  ![Snake animation](https://github.com/developerbunyodbek/developerbunyodbek/blob/output/github-contribution-grid-snake.svg)
 
